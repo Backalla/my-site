@@ -16,4 +16,4 @@ So you have started with Machine Learning and went through pretty much every sho
 You must have come across some of the words like Backpropagation, Regularization, Activation Function, etc. But never really understood the math behind these. It’s a lot easier to code your own neural network when you can visualize the underlying processes and how things flow through the network.
 
 ## Neural Network
-![Logo Title Text 1](https://cdn-images-1.medium.com/max/880/1*cemKtt3xPbXyH2dyr892sg.png)
+![image-title](https://cdn-images-1.medium.com/max/880/1*cemKtt3xPbXyH2dyr892sg.png "4 Layer Neural Network"){:class="img-responsive"}
