@@ -4,7 +4,7 @@ description: "Programmer, Machine learning enthusiast, Doer.<br>Research enginee
 url: 'http://tusharpawar.com'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'backalla'
 
 author:
   name: 'Tushar Pawar'
