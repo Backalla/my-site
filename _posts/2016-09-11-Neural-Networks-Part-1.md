@@ -1,6 +1,7 @@
 ---
 title:  "Neural Networks Part - 1"
 date:   2017-09-11 15:04:23
+comments: true
 categories: Introduction Artificial Intelligence
 tags: AI ML Intro
 ---
